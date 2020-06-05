@@ -1,3 +1,0 @@
-# pokedex
-
-busqueda de pokemon
